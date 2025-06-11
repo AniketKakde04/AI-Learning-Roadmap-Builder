@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.8",
+    "class-variance-authority": "^0.7.1",
     "dagre": "^0.8.5",
+    "lucide-react": "^0.513.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "reactflow": "^11.11.4"
+    "reactflow": "^11.11.4",
+    "tailwind-variants": "^1.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
